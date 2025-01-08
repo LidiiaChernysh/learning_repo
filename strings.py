@@ -1,5 +1,5 @@
 game_string = 'My favorite "Game"'
-
+"""
 s = "Hello world!"
 print(s[0])# H
 print(s[-1])# !
@@ -71,4 +71,12 @@ print(reverse_numbers)
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 copy_numbers = numbers[:]
 print(copy_numbers)
+"""
+text = " "
+print(len(text.replace(" ", "")))
 
+first_name= "Lidiia"
+last_name = "Chernysh"
+print(f'{first_name} {last_name}')
+
+print(len("123456789012345678901"))
