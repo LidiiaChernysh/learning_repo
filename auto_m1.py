@@ -34,3 +34,5 @@ def number_of_groups(n, k):
 
 #a = number_of_groups(10, 2)
 print(number_of_groups(10, 2))
+
+print('test')
